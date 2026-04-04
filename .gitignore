@@ -1,0 +1,18 @@
+# Бинарники                                                                                                
+/bin/                                                                                                      
+                                                                                                             
+# Сгенерированный код (proto + swagger)                                                                    
+/gen/           
+/docs/                                                                                                     
+                  
+# Env файлы
+.env
+.env.*                                                                                                     
+                                                                                                             
+# Go            
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
